@@ -7,3 +7,21 @@ NoobsAttack de UNIVERSE HACKER es para acabar con el enemigo
 [2] INICIAR HANDLER DE ESCUCHA CON METASPLOT
 
 [3] EJECUTAR BACKDOOR PARA TOMAR CONTROL REMOTO
+
+
+#
+☠️💀INSTALACIÓN EN TERMUX💀☠️
+
+Si no tienes python instalalo con:
+
+pkg install python
+
+pkg install python3
+
+Luego instalamos openssl con:
+
+pkg install openssl
+
+Ahora clonamos con
+
+

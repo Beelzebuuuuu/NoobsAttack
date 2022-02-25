@@ -12,7 +12,9 @@ NoobsAttack de UNIVERSE HACKER es para acabar con el enemigo
 
 
 Para ejecutar está herramienta 
-necesitas tener Metasploit istalado
+necesitas tener Metasploit istalado 
+Si no lo tienes lo puedes instalar 
+
 
 ☠️💀INSTALACIÓN DE NoobsAttack EN TERMUX💀☠️
 

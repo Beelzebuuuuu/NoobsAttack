@@ -1,7 +1,6 @@
-# NoobsAtack
+# NoobsAttack
 NoobsAtack de UNIVERSE HACKER es para acabar con el enemigo
-![NoobsAtack running](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK7Mh7aPtBDp-GK-SHiz7MJQWFmTGukZxsYQ&usqp=CAU)
-
+![NoobsAtack running](
 ~~~~~~~~~MENU~~~~~~~~~~~~
 [1]CREAR APK MALICIOSA  CON METASPLOT
 

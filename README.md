@@ -13,7 +13,8 @@ NoobsAttack de UNIVERSE HACKER es para acabar con el enemigo
 
 #☠️💀INSTALACIÓN EN TERMUX💀☠️
 
-Si no tienes python instalalo con:
+Si no tienes python instalalo
+Lo instalas de la siguiente manera:
 
 pkg install python
 

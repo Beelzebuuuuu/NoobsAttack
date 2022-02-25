@@ -26,3 +26,13 @@ pkg install openssl
 Ahora clonamos con
 
 https://github.com/Beelzebuuuuu/NoobsAttack
+
+cd NoobsAttack
+
+ls
+
+chmod 777 NoobsAttack.py
+
+🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️MODO DE USO🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️
+
+Python NoobsAttack.py

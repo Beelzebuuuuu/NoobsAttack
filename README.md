@@ -18,7 +18,6 @@ De la siguiente manera:
 
 pkg install git
 
-
 git clone https://github.com/Beelzebuuuuu/Matasploit
 
 chmod +x metasploit.sh

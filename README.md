@@ -7,7 +7,8 @@ NoobsAttack de UNIVERSE HACKER es para acabar con el enemigo
 [2] INICIAR HANDLER DE ESCUCHA CON METASPLOT
 
 [3] EJECUTAR BACKDOOR PARA TOMAR CONTROL REMOTO
-~~~~~~~~~MENU~~~~~~~~~~~~
+
+![NoobsAtack running](https://as1.ftcdn.net/v2/jpg/01/39/07/90/1000_F_139079082_7LtOAYh1JYVl59kul4I77xpwwZcq8J06.jpg)
 
 #☠️💀INSTALACIÓN EN TERMUX💀☠️
 

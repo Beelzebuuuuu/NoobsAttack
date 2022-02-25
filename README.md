@@ -14,8 +14,17 @@ NoobsAttack de UNIVERSE HACKER es para acabar con el enemigo
 Para ejecutar está herramienta 
 necesitas tener Metasploit istalado 
 Si no lo tienes lo puedes instalar 
-En este repositorio 
-https://github.com/Beelzebuuuuu/Matasploit
+De la siguiente manera:
+
+pkg install git
+
+
+git clone https://github.com/Beelzebuuuuu/Matasploit
+
+chmod +x metasploit.sh
+
+./metasploit.sh
+
 
 ☠️💀INSTALACIÓN DE NoobsAttack EN TERMUX💀☠️
 

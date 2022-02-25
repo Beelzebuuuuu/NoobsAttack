@@ -11,7 +11,10 @@ NoobsAttack de UNIVERSE HACKER es para acabar con el enemigo
 [3] EJECUTAR BACKDOOR PARA TOMAR CONTROL REMOTO
 
 
-#☠️💀INSTALACIÓN EN TERMUX💀☠️
+Para ejecutar está herramienta 
+necesitas tener Metasploit istalado
+
+☠️💀INSTALACIÓN DE NoobsAttack EN TERMUX💀☠️
 
 Si no tienes python instalalo
 Lo instalas de la siguiente manera:

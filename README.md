@@ -24,8 +24,6 @@ Lo instalas de la siguiente manera:
 
 pkg install python
 
-pkg install python3
-
 Luego instalamos openssl con:
 
 pkg install openssl

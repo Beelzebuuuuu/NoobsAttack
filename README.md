@@ -27,7 +27,7 @@ chmod +x metasploit.sh
 
 ☠️💀INSTALACIÓN DE NoobsAttack EN TERMUX💀☠️
 
-Si no tienes python instalalo
+Si no tienes python hay que instalarlo 
 Lo instalas de la siguiente manera:
 
 pkg install python
@@ -38,7 +38,7 @@ pkg install openssl
 
 Ahora clonamos con
 
-https://github.com/Beelzebuuuuu/NoobsAttack
+git clone https://github.com/Beelzebuuuuu/NoobsAttack
 
 cd NoobsAttack
 
